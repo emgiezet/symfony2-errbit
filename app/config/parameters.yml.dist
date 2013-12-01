@@ -13,3 +13,8 @@ parameters:
 
     locale:            en
     secret:            ThisTokenIsNotSoSecretChangeIt
+
+    errbit_enable_log : true
+    errbit_host : 0.0.0.0:3000
+    errbit_api_key :   b3de0e8197dded299bf1d437fdfe017e
+    errbit_environment_name : ZooCoworking - local
